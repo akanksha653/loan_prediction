@@ -118,7 +118,7 @@ Identifying high-risk customers helps reduce losses and improve loan approval de
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/akanksha653/loan_prediction.git
 cd your-repo-name
 pip install -r requirements.txt
 jupyter notebook
